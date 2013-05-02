@@ -3,6 +3,8 @@ ungender-extension
 
 Eine Google Chrome Extension um unlesbar gegenderte deutsche Webseiten zu raparieren.
 
+## Motivation
+
 [Dieses WKO-Dokument](https://www.usp.gv.at/Portal.Node/usp/public/content/steuern_und_finanzen/umsatzsteuer/umsaetze_innerhalb_eu/grenzueberschreitende_dienstleistungen/40954.html) war für mich unlesbar, daher musste ein Script her um die gegenderten Sätze zu vereinfachen.
 
 aus dem ersten Absatz:
@@ -31,3 +33,7 @@ oder in der weiblichen Version:
 > Unternehmen betreibt, **ihre** Betriebsstätte sich befindet. Ist **die Empfängerin**
 > **Nichtunternehmerin** wird die sonstige Leistung an dem Ort ausgeführt, an dem
 > **die leistende Unternehmerin** **ihr** Unternehmen (Betriebsstätte) betreibt.
+
+## Thanks
+
+Thanks to [Andreas Jansson](https://github.com/andreasjansson), most of the text replacement code is from his [Ungender Chrome Extension](https://github.com/andreasjansson/the-ungender)
