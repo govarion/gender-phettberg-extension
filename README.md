@@ -3,6 +3,10 @@ ungender-extension
 
 Eine Google Chrome Extension um unlesbar gegenderte deutsche Webseiten zu raparieren.
 
+## Installation
+
+[Ungender Deutsch im Chrome Web Store](https://chrome.google.com/webstore/detail/ungender-deutsch/kkbfnmhomlioikchijcdlebndbndipcd?hl=de)
+
 ## Motivation
 
 [Dieses WKO-Dokument](https://www.usp.gv.at/Portal.Node/usp/public/content/steuern_und_finanzen/umsatzsteuer/umsaetze_innerhalb_eu/grenzueberschreitende_dienstleistungen/40954.html) war für mich unlesbar, daher musste ein Script her um die gegenderten Sätze zu vereinfachen.
