@@ -1,6 +1,5 @@
 (function() {
     var gender = "female",
-        debug = false,
         searchRegex = [];
 
     var search = [
