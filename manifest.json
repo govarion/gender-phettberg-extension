@@ -11,6 +11,10 @@
             "run_at" : "document_end"
         }
     ],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "options_page": "options.html",
     "icons": {
         "128": "icon128.png",
         "256": "icon256.png"
