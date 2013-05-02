@@ -8,7 +8,7 @@
 
         ["ihr(?:e|er|en|em)?", "sein(?:e|er|en|em)?"],
 
-        ["[A-ZÄÖÜ]\\S+in", "[A-ZÄÖÜ]\\S+(?:er)?"],
+        ["[A-ZÄÖÜ]\\S+in(?:nen)?", "[A-ZÄÖÜ]\\S+(?:er)?"],
 
         ["die\\s+\\S+in", "(?:der|den|dem)\\s+\\S+er"],
         ["die(?:\\s+\\S+){2}in", "(?:der|den|dem)(?:\\s+\\S+){2}er"],
