@@ -1,0 +1,19 @@
+{
+    "name": "Ungender Deutsch",
+    "version": "1.0",
+    "description": "Vereinfache gegenderte deutsche Sätze, entscheide dich für ein Geschlecht",
+    "content_scripts" : [
+        {
+            "matches" : [
+                "*://*/*"
+            ],
+            "js" : ["contentscript.js"],
+            "run_at" : "document_end"
+        }
+    ],
+    "icons": {
+        "128": "icon128.png",
+        "256": "icon256.png"
+    },
+    "manifest_version": 2
+}
