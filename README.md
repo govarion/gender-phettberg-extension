@@ -1,43 +1,23 @@
-ungender-extension
+gender-phettberg-extension
 ==================
 
-Eine Google Chrome Extension um unlesbar gegenderte deutsche Webseiten zu raparieren.
+Eine Google Chrome Extension um entgenderte deutsche Webseiten mit "Gendern nach Phettberg" zu ersetzen.
 
 ## Installation
-
-[Ungender Deutsch im Chrome Web Store](https://chrome.google.com/webstore/detail/ungender-deutsch/kkbfnmhomlioikchijcdlebndbndipcd?hl=de)
+# TBD
+# [Ungender Deutsch im Chrome Web Store](https://chrome.google.com/webstore/detail/ungender-deutsch/kkbfnmhomlioikchijcdlebndbndipcd?hl=de)
 
 ## Motivation
 
-[Dieses WKO-Dokument](https://www.usp.gv.at/Portal.Node/usp/public/content/steuern_und_finanzen/umsatzsteuer/umsaetze_innerhalb_eu/grenzueberschreitende_dienstleistungen/40954.html) war für mich unlesbar, daher musste ein Script her um die gegenderten Sätze zu vereinfachen.
+Bei einer Workshop-Session zum Thema "Gendern" teilte eine Kollegin folgenden ein Youtube Video eines Science Slams mit Thomas Kronschläger: https://www.youtube.com/watch?v=xVmGb7qACfA
+Das sprach mein Humorzentrum an und ich wollte wissen, wie sich so etwas "in echt" anfühlt.
 
-aus dem ersten Absatz:
+Die Phettberg-Methode wird systematisch (u.a.) hier beschrieben: https://blog.lplusl.de/nebenbei/gendern-nach-phettberg/
 
-> So wird eine Dienstleistung (sonstige Leistung), wenn **die Empfängerin/der
-> Empfänger** **Unternehmerin/Unternehmer** ist, an dem Ort ausgeführt, an dem **die
-> Unternehmerin/der Unternehmer** **ihr/sein** Unternehmen betreibt, **ihre/seine**
-> Betriebsstätte sich befindet. Ist **die Empfängerin/der Empfänger**
-> **Nichtunternehmerin/Nichtunternehmer**, wird die sonstige Leistung an dem Ort
-> ausgeführt, an dem **die leistende Unternehmerin/der leistende Unternehmer**
-> **ihr/sein** Unternehmen (Betriebsstätte) betreibt.
+Geplant ist zunächst, einfache Gender-Schreibweisen (Sternchen, Doppelpunkt, Querstrich und Binnen-I) durch ihr Phettberg-Äquivalent zu ersetzen.
+Wenn ich danach noch Zeit und Muße habe, werde ich mich dann darum kümmern, auch die "klassischen" Männlein-Weiblein-Schreibweisen nach Phettberg zu ersetzen um ein "vollkommenes" Leseerlebnis zu ermöglichen. Als Nicht-Linguist werde ich da womöglich aber an der deutschen Grammatik scheitern, bis ich eine gute Gender-Plugin-Referenz mit deutscher Grammatik finde.
 
-nach dem Skript (männliche Version):
+## Danksagung
 
-> So wird eine Dienstleistung (sonstige Leistung), wenn **der Empfänger**
-> **Unternehmer** ist, an dem Ort ausgeführt, an dem **der Unternehmer** **sein**
-> Unternehmen betreibt, **seine** Betriebsstätte sich befindet. Ist **der Empfänger**
-> **Nichtunternehmer**, wird die sonstige Leistung an dem Ort ausgeführt, an dem
-> **der leistende Unternehmer** **sein** Unternehmen (Betriebsstätte) betreibt.
-
-oder in der weiblichen Version:
-
-
-> So wird eine Dienstleistung (sonstige Leistung), wenn **die Empfängerin**
-> **Unternehmerin** ist, an dem Ort ausgeführt, an dem **die Unternehmerin** **ihr**
-> Unternehmen betreibt, **ihre** Betriebsstätte sich befindet. Ist **die Empfängerin**
-> **Nichtunternehmerin** wird die sonstige Leistung an dem Ort ausgeführt, an dem
-> **die leistende Unternehmerin** **ihr** Unternehmen (Betriebsstätte) betreibt.
-
-## Thanks
-
-Thanks to [Andreas Jansson](https://github.com/andreasjansson), most of the text replacement code is from his [Ungender Chrome Extension](https://github.com/andreasjansson/the-ungender)
+Ich danke [Stefan Kröner](https://github.com/sk7), dessen [Ungender Extension](https://github.com/sk7/ungender-extension) ich als Basis geforkt habe. Damit indirekt auch [Andreas Jansson](https://github.com/andreasjansson), der seinerseits Stefan als Inspiration diente.
+Desweitern auch (fr1ederik)(https://github.com/fr1ederik), von dessen [GenderStarless Extension](https://github.com/fr1edrik/GenderStarless) ich mich möglicherweise bedienen werde.
