@@ -4,8 +4,8 @@ gender-phettberg-extension
 Eine Google Chrome Extension um entgenderte deutsche Webseiten mit "Gendern nach Phettberg" zu ersetzen.
 
 ## Installation
-# TBD
-# [Ungender Deutsch im Chrome Web Store](https://chrome.google.com/webstore/detail/ungender-deutsch/kkbfnmhomlioikchijcdlebndbndipcd?hl=de)
+TBD
+~~# [Ungender Deutsch im Chrome Web Store](https://chrome.google.com/webstore/detail/ungender-deutsch/kkbfnmhomlioikchijcdlebndbndipcd?hl=de)~~
 
 ## Motivation
 
