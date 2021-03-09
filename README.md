@@ -20,4 +20,4 @@ Wenn ich danach noch Zeit und Muße habe, werde ich mich dann darum kümmern, au
 ## Danksagung
 
 Ich danke [Stefan Kröner](https://github.com/sk7), dessen [Ungender Extension](https://github.com/sk7/ungender-extension) ich als Basis geforkt habe. Damit indirekt auch [Andreas Jansson](https://github.com/andreasjansson), der seinerseits Stefan als Inspiration diente.
-Desweitern auch (fr1ederik)(https://github.com/fr1ederik), von dessen [GenderStarless Extension](https://github.com/fr1edrik/GenderStarless) ich mich möglicherweise bedienen werde.
+Desweitern danke ich (fr1ederik)(https://github.com/fr1ederik), von dessen simpel-genialer [GenderStarless Extension](https://github.com/fr1edrik/GenderStarless) ich mich bei der Implementierung bedient habe.
